@@ -1,0 +1,40 @@
+.span {
+  margin-left: 5px;
+  font-size: 10px;
+  font-family: 'Roboto';
+  margin-top: 24px;
+}
+.title {
+  font-size: 13px;
+  font-family: 'Roboto';
+  top: 10px;
+  margin-left: 8px;
+  margin-top: 22px;
+}
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.list-container {
+  display: flex;
+  align-items: flex-start;
+}
+.image {
+  width: 25px;
+  height: 25px;
+  margin-top: 18px;
+  margin-left: 20px;
+}
+.delete {
+  margin-top: 18px;
+}
+.history {
+  text-align: center;
+  color: #64748b;
+  font-family: 'Roboto';
+}
+.button {
+  border-style: none;
+  background-color: transparent;
+}
